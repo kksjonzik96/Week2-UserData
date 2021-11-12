@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.exe
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.deps.json
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\ref\DrivingLicence.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\bin\Debug\net5.0\DrivingLicence.pdb
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\ref\DrivingLicence.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.pdb
+D:\Programmeerimise algkursus (RKE132)\UserData\DrivingLicence\obj\Debug\net5.0\DrivingLicence.genruntimeconfig.cache

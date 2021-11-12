@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.exe
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.deps.json
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\ref\InstagramAgeCheck.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.pdb
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\ref\InstagramAgeCheck.dll
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.pdb
+D:\Programmeerimise algkursus (RKE132)\UserData\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.genruntimeconfig.cache
